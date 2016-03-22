@@ -30,13 +30,17 @@ The Speaker Circuit contains these parts:
 - 2 way 3.5mm audio jack
 - Alligator Clips
 
-Make sure you speaker has power, or is charged if it contains a battery. I use the "audio in" on my speaker, so I have a 2 way 3.5mm jack, which I plug 1 end into the speaker, and the other end I connect the GND (base) and PWR (tip) to the respective GND and PWR of the solar cell.
+Make sure your speaker has power, or is charged if it contains a battery. I use the "audio in" on my speaker, so I have a 2 way 3.5mm jack, which I plug 1 end into the speaker, and the other end I connect the GND (base) and PWR (tip) to the respective GND and PWR of the solar cell.
 
 ## Usage
 
 With these circuits complete, you should be able to hear the song through the circuit. If you dont, re-check the circuits, and use a multimeter to check to make sure you have sufficient current.
 
 It helps if you point the LEDs directly at the solar cell. Also try with any surrounding lights off, to reduce noise from ambient lighting.
+
+If you point the LEDs directly at the solar cell, you will hear the audio the loudest. You can also point the LEDs at an angle away from the solar cell, and hear it get quiter, but as long as the solar cell has sight of the LEDs light, it will still play the song. If you put your hand between the LEDs and the solar cell, covering them completely, you won't be able to hear the song, as the speaker can't recieve any of the data being transmitted from the LEDs.
+
+I also used a simple tone frequency generator app on my phone, and sending 10Hz actually allows the human eye to see the LEDs modulating (they flicker). Anything 100+ Hz, the human eye won't be able to percieve.
 
 ## Science
 
