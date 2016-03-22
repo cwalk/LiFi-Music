@@ -59,3 +59,8 @@ The second circuit is the speaker and solar cell. We use the solar cell as a rec
 ## YouTube
 
 YouTube: 
+
+
+## Pictures
+
+Here are some extra pictures so you can see what my experiement looked like, if you are too lazy to watch the YouTube video above :P
