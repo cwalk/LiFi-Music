@@ -21,6 +21,8 @@ I plug in the audio jack to the phone. I wire up the LEDs and resistors on the b
 
 You should then see the LEDs all light up. This is simply applying power to the breadboard because the circuit is complete. If you unplug the audio jack from the phone, you will see the LEDs turn off. If you start playing a song, you will actually be sending the data through the LEDs, but you just dont have the speaker circuit hooked up yet, so you have no way to verify it's being sent, since the LEDs modulate too fast for the eye to see.
 
+![Phone Circuit Diagram](/Phone Circuit.png?raw=true "Phone Circuit Diagram")
+
 ## Speaker Circuit
 
 The Speaker Circuit contains these parts:
@@ -31,6 +33,8 @@ The Speaker Circuit contains these parts:
 - Alligator Clips
 
 Make sure your speaker has power, or is charged if it contains a battery. I use the "audio in" on my speaker, so I have a 2 way 3.5mm jack, which I plug 1 end into the speaker, and the other end I connect the GND (base) and PWR (tip) to the respective GND and PWR of the solar cell.
+
+![Speaker Circuit Diagram](/Speaker Circuit.png?raw=true "Speaker Circuit Diagram")
 
 ## Usage
 
