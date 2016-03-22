@@ -63,4 +63,16 @@ YouTube:
 
 ## Pictures
 
-Here are some extra pictures so you can see what my experiement looked like, if you are too lazy to watch the YouTube video above :P
+Here are some extra pictures so you can see what my experiement looked like, if you are too lazy to watch the YouTube video above :stuck_out_tongue_winking_eye:
+
+:iphone: Circuit
+
+![Phone Circuit](/Phone Circuit.jpg?raw=true "Phone Circuit")
+
+:speaker: Circuit
+
+![Speaker Circuit](/Speaker Circuit.jpg?raw=true "Speaker Circuit")
+
+:bulb:
+
+![LEDs](/LEDs.jpg?raw=true "LEDs")
