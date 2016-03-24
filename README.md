@@ -1,6 +1,10 @@
 ## Introduction
 Transmit music file over the visible light spectrum using LiFi (Visible Light Communication) to a speaker.
 
+## YouTube
+
+YouTube: https://www.youtube.com/watch?v=tFwbcZFYRHQ
+
 ## Summary
 
 There is actually no code associated with this experiment, it's done entirely through a circuit, and electrical engineering knowledge. I will attempt to explain the circuit below. It contains two parts, the phone circuit, and the speaker circuit.
@@ -55,11 +59,6 @@ As the analog output of the song changes, the LEDs modulate their output (they t
 The second circuit is the speaker and solar cell. We use the solar cell as a reciever to pick up the song data being communicated by the LEDs (this could also be done with any photo-diode or photo-resistor). Then, that signal is processed by an amplified speaker, which allows you to hear the song being transferred through the LEDs. You can actually hear it through headphones instead of a speaker if you wish, but the sound is even more faint. I believe this to be because the speaker I use has power to it, so it acts like an "audio amplifier." 
 
 - FYI I am not an electrical engineer by trade or education, so I'm not 100% on the science behind it, but this is my simple reasoning. I also used a nonpowered speaker, and could only hear static. It was too weak to hear the audio signal.
-
-## YouTube
-
-YouTube: 
-
 
 ## Pictures
 
