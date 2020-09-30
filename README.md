@@ -1,5 +1,5 @@
 ## Introduction
-Transmit music file over the visible light spectrum using LiFi (Visible Light Communication) to a speaker.
+Transmit music file over the visible light spectrum using LiFi (Visible Light Communication) to a speaker.However,as you know nothing is speed that light in this project data is passed through a light sepctrum.The speed of the data transfer can rech 100Gbps.  
 
 ## YouTube
 
